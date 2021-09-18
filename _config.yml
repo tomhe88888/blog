@@ -1,11 +1,11 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
-timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+title: "Tom He's Blog"
+email: tomhe88888@gmail.com
+timezone: AEST
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Tom He
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -43,9 +43,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: 
+  facebook: 
+  twitter: 
 
 # Plugins
 plugins: 
